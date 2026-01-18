@@ -2,16 +2,11 @@
 
 A collection of Python projects for learning and practice.
 
-## Getting Started
+# Projects
 
-1. Clone this repository
-2. Create a virtual environment: `python -m venv venv`
-3. Activate it: `venv\Scripts\activate` (Windows)
-4. Install dependencies: `pip install -r requirements.txt`
+## Beginner projects
 
-## Projects
-
-Add your projects here...
+1. Command line number guessing game (with difficulty modes)
 
 ## License
 
