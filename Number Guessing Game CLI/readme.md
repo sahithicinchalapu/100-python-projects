@@ -29,4 +29,4 @@
 
 ## 🖥️ Demo (Sample Output)
 
-(<Recording 2026-03-20 081424.gif>)
+<Recording 2026-03-20 081424.gif>
